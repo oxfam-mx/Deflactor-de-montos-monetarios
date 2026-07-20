@@ -1,5 +1,4 @@
 # Deflactor-de-montos-monetarios
-Deflector construido a partir del índice acumulado de precios implícitos que publica INEGI en el Banco de Información Ecónomica
 
 El deflactor de esta guía se construye a partir del índice acumulado de precios implícitos que publica Inegi en el Banco de Información Económica (BIE, https://tinyurl.com/bdcwzvk6). La ruta para encontrar los datos necesarios es: Cuentas nacionales > Producto interno bruto trimestral, base 2018 > Índice acumulado de precios implícitos, 2018=100 > Producto Interno Bruto (Índice base 2018=100), Estados Unidos Mexicanos. Para los períodos posteriores no incluidos aún en esta base, se utiliza el deflactor del PIB publicado en los Criterios Generales de Política Económica, en la tabla Marco Macroeconómico.
 Una vez que se descargan los datos para el período deseado, se seleccionan las observaciones correspondientes al cuatro trimestre de cada año y se realiza la siguiente operación aritmética:
