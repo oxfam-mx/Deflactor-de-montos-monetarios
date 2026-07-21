@@ -38,4 +38,6 @@ De esta forma, si queremos transformar un valor corriente del año **2025** a pr
 * **Fila:** `2025`
 * **Columna:** `2026 = 100`
 
-efrenperez@oxfammexico.org
+---
+
+> **Nota:** Este deflactor se actualizará una vez al año. En caso de alguna duda favor de escribir a [efrenperez@oxfammexico.org](mailto:efrenperez@oxfammexico.org).
