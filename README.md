@@ -38,3 +38,4 @@ De esta forma, si queremos transformar un valor corriente del año **2025** a pr
 * **Fila:** `2025`
 * **Columna:** `2026 = 100`
 
+efrenperez@oxfammexico.org
